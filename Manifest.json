@@ -1,0 +1,15 @@
+{
+    "name": "المخطط الذكي للمراجعة المتباعدة",
+    "short_name": "مراجعة",
+    "start_url": "/study-planner.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#5D5CDE",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
